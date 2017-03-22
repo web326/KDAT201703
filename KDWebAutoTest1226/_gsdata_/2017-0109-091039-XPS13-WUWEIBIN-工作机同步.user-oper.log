@@ -1,0 +1,22 @@
+2017-01-09 09:10:39: 用户删除了文件 D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/IPC自动化框架20170108.zip
+2017-01-09 09:10:39: ===== Done =====
+2017-01-09 09:10:39: 
+2017-01-09 09:10:42: == Sync Started by User
+2017-01-09 09:10:42: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/api/getcasevalue.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/getcasevalue.pyc'
+2017-01-09 09:10:43: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/api/menupage.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/menupage.pyc'
+2017-01-09 09:10:43: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/api/messages.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/messages.pyc'
+2017-01-09 09:10:43: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/api/operation_verify.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/operation_verify.pyc'
+2017-01-09 09:10:44: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/api/verifycmd.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/verifycmd.pyc'
+2017-01-09 09:10:44: 新建复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/cat.ico' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/cat.ico'
+2017-01-09 09:10:44: /Config.ini: unresolved conflict results in No Copy
+2017-01-09 09:10:45: 新建复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/GUIwwb.spec' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/GUIwwb.spec'
+2017-01-09 09:10:45: 新建复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/ipc.ico' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/ipc.ico'
+2017-01-09 09:10:46: 新建复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/KIPCAutoTest.py' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/KIPCAutoTest.py'
+2017-01-09 09:10:46: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/runstart.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runstart.pyc'
+2017-01-09 09:10:46: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/runtest/__init__.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/__init__.pyc'
+2017-01-09 09:10:46: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/runtest/test_aImagsSettings.pyc' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/test_aImagsSettings.pyc'
+2017-01-09 09:10:47: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/setup.py' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/setup.py'
+2017-01-09 09:10:48: 新建复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/user.ico' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/user.ico'
+2017-01-09 09:10:48: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/自动化框架添加.txt' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest0105/自动化框架添加.txt'
+2017-01-09 09:10:49: ===== ：同步完毕。时间：00:00:08，速度： 23.9 KB/s =====, 项目同步未必： 15，错误： , Conflicts: 1
+2017-01-09 09:10:49: 

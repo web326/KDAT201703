@@ -1,0 +1,47 @@
+2017-01-04 18:37:37: -- Analysis Started by User
+2017-01-04 18:37:38: /Config.ini: 冲突：文件两侧都进行了改动
+2017-01-04 18:37:38: /run.pyc: 冲突：文件两侧都进行了改动
+2017-01-04 18:37:38: /api/__init__.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/common.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/driverID.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/getcasevalue.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/menupage.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/messages.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/operation_verify.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /api/verifycmd.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /GUIwwb.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /runtest/__init__.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /runtest/day_night.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: /runtest/test_aImagsSettings.pyc: 警告：旧文件将替换新文件
+2017-01-04 18:37:38: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2017-01-04 18:37:38: 变更：18， 冲突：2， 复制时间：， 复制状态：/， 错误： , All: 57
+2017-01-04 18:37:38: Left to Right: Copy File: 14 
+2017-01-04 18:37:38: Right to Left: Copy File: 2 
+2017-01-04 18:37:38: ----- ：分析已结束。 历时 00:00:01， 速度： 53 个文件/秒 -----
+2017-01-04 18:37:38: 
+2017-01-04 18:37:40: == Sync Started by User
+2017-01-04 18:37:40: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/__init__.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/__init__.pyc'
+2017-01-04 18:37:40: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/common.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/common.pyc'
+2017-01-04 18:37:40: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/driverID.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/driverID.pyc'
+2017-01-04 18:37:40: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/getcasevalue.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/getcasevalue.pyc'
+2017-01-04 18:37:40: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/menupage.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/menupage.pyc'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/messages.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/messages.pyc'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/operation_verify.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/operation_verify.pyc'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/api/verifycmd.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/api/verifycmd.pyc'
+2017-01-04 18:37:41: /Config.ini: unresolved conflict results in No Copy
+2017-01-04 18:37:41: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/GUIwwb.py' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/GUIwwb.py'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/GUIwwb.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/GUIwwb.pyc'
+2017-01-04 18:37:41: 覆盖复制 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/run.py' -> 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/run.py'
+2017-01-04 18:37:41: /run.pyc: unresolved conflict results in No Copy
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/__init__.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/runtest/__init__.pyc'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/day.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/runtest/day.pyc'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/day_night.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/runtest/day_night.pyc'
+2017-01-04 18:37:41: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/run.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/runtest/run.pyc'
+2017-01-04 18:37:42: 覆盖复制 'D:/Users/wuweibin/workspace/selenium-py/KIPCAtuoTest20161226/runtest/test_aImagsSettings.pyc' -> 'ftp://10.255.223.25/99.Eclipse_workspace/KDWebAutoTest1226/runtest/test_aImagsSettings.pyc'
+2017-01-04 18:37:42: ===== ：同步完毕。时间：00:00:02，速度： 52.4 KB/s =====, 项目同步未必： 16，错误： , Conflicts: 2
+2017-01-04 18:37:42: 
+2017-01-04 18:37:46: == Sync Started by User
+2017-01-04 18:37:46: /Config.ini: unresolved conflict results in No Copy
+2017-01-04 18:37:46: /run.pyc: unresolved conflict results in No Copy
+2017-01-04 18:37:46: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： ，错误： , Conflicts: 2
+2017-01-04 18:37:46: 

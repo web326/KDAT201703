@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//api/common.py=utf-8
+encoding//api/driverID.py=utf-8
+encoding//api/getcasevalue.py=utf-8
+encoding//api/menupage.py=utf-8
+encoding//api/messages.py=utf-8
+encoding//api/operation_verify.py=utf-8
+encoding//api/verifycmd.py=utf-8
+encoding//runtest/test_aImagsSettings.py=utf-8
+encoding/KIPCAutoTest.py=utf-8
+encoding/runstart.py=utf-8
+encoding/setup.py=utf-8

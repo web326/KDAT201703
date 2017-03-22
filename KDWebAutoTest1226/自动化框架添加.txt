@@ -1,0 +1,71 @@
+现在设计的整个思路
+
+
+
+
+1.driverID  添加
+2.excel添加
+3.getcasevalue 添加
+4.menupage 添加
+5.message 添加
+6.comm添加添加
+7.verifycmd 添加
+
+8.runtest添加新文件
+界面上的
+1.
+
+
+
+
+问题
+1.全选、取消未实现
+2.其他功能添加（音视频、云台、系统）
+3.界面中代码太多，主要后面考虑是否可以使用循环：Intvar定义、复选框等等
+4.信息显示没有实时显示，需要继续研究
+5.停止按钮，显示在是直接杀掉firefox进程，方法不好，需要继续研究
+6.结果查看，没有做，需要考虑，现在没有使用unittest框架，报告显示需要考虑
+7.输入框实现  输入后回车键就写入
+8.firefox、日志路径设计一个浏览按钮，自动添加路径
+
+9.ID  设计  查询  思路
+ID修改思路
+增加思路 自动获取的思路
+
+10.函数设计思路：主要是选择大的测试点、一级一级获取，测试数据显示后可以修改添加
+
+11.
+
+
+见面的使用
+
+
+
+
+运行python2.6.6上使用pyinstaller打包的应用程序报错ImportError: The ‘packaging’ package is required; normally this is bundled with this package so if you get this warning, consult the packager of your distribution.
+问题描述
+
+运行python2.6.6上使用pyinstaller打包的应用程序报下面的错误
+
+Traceback (most recent call last):
+  File "<string>", line 11, in <module>
+  File "c:\python27\Lib\site-packages\PyInstaller\loader\pyimod03_importers.py", line 389, in load_module
+    exec(bytecode, module.__diact__)
+  File "site-packages\pkg_resources\__init__.py", line 74, in <module>
+  File "site-packages\pkg_resources\extern\__init__.py", line 60, in load_module
+ImportError: The 'packaging' package is required; normally this is bundled with this package so if you get this warning, consult the packager of your distribution.
+pyi_rth_pkgres returned -1
+
+解决办法
+
+使用 pip list 查看已经安装的包，发现是setuptools包的版本太高，环境里的setuptools版本是20.x.x。
+
+果断卸载并安装低版本的setuptools(19.2)，如下：
+
+pip uninstall setuptools
+pip install setuptools==19.2
+
+    1
+    2
+
+重新打包python脚本再运行，问题解决。
