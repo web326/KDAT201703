@@ -14,7 +14,7 @@ setup(
     options=options,    
     #zipfile=None,  ##配合options和bundle_files使用，None把所有东西打包进.exe文件中
     #console=[{"script": "GUIwwb.py", "icon_resources": [(1, "ooopic_1483782995.ico")]}],
-    windows=[{"script": "KIPCAutoTest.py","icon_resources": [(1, "user.ico")]}],  
+    windows=[{"script": "KIPCAutoTest.py","icon_resources": [(3, "ipc.ico")]}],  
     data_files=[(".",["Config.ini","IPC_v7_message.xlsx","ipc.ico"])],   ##指定额外的配置文件，那么py2exe能将这些文件拷贝到dist子目录中     
     version = "v1.1.20170107",   
     description = "KDwebAutoTest V1.1.0",   
